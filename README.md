@@ -1,7 +1,22 @@
-```
-import HumanClass
+[![Bash](https://img.shields.io/badge/-Bash-555?style=flat&logo=gnubash&logoColor=fff)](https://www.iso.org/standard/74528.html)
+[![C](https://img.shields.io/badge/-C-555?style=flat&logo=cplusplus)](https://www.iso.org/standard/74528.html)
+[![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=cplusplus)](https://isocpp.org/)
+[![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=dart)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=flutter)](https://flutter.dev/)
+[![Husky](https://img.shields.io/badge/-Husky-555?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAkCAYAAACTz/ouAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAABCRJREFUSImVl2uIVlUUhp/RqcHGy6hDMQ1SeE+hJLtQSNIPQ4XKCCNQSSwiutCfEFIrgjCoMIxUMEwKEwoyMqbCLmpJmFGkZmFZmXghTcXyNun49GPt42yP55uxFzbfvqyz1t5rvWvt/aFSakvUDeqIirVyG69uU79Q66tkyhPD1DMGdqktXSi/Xj1uJ2ZdiIHZ6t/q82qH+qVaV/FhP3WPelh9SP1D/V3t2Z2BNerC1H8h7WxahYEX0wYmpvHMJDuuOwOH1UnqQLVR3ZlcNVW9L7WZarv6XPrmKrW3ejQZrmmgOe1iuPq+2ldtsxoH0/oodW9y40r157KBHnRiMHAQuAi4A9gJTKYaB4CBwAygBWgF1gLDgKZcsD7rNwN7gFvTuH8N5QAjgK3A0TRuBDal/khgYyGYn6AfcCUwBzhZUngM2FaaawQuy/RsS3Ijc6HcQBPhosXAJOAMIPBsUvQ6MD/NlzENOA1sTqfrRBaQz9VPs/E6dVkpaK/UCLqJVctSoBvLLJqYqDc5URR1uTo99evVMUb5WKieqmFkc/pdWhioUwFeA/oSzGgCbgA+Bl4GPgE+BC4BBgDvAN8BK4A+Fe4C6CBYuauIwS3AKmBH8vHVSdn3wBPABOAfgmWvAh8BK2soB+hJUPgsTVuAP1MwH0jjm9J6OzCWYEl7puQpoA24F7iHcyl/iIIMaq/kt03qkHImXmAbrn5VisfsIpMfBY4A64HpwLVdHL0W9hA03pjNPQMMQt2nLjDqi4lNA7vZcVWbauddUmBOD4IJTUQmQ9SZEzV2envyeRmtwAfA19lcO9DRgygL7xGZuJvI4uMlBXXAS8Bq4C2CsjkOAUsJOhdoAP6tJ3x/BfA0MJrza04zkQ/T03hNaQMNxInHcy7LAKbUqUOBzwiejwZ+I5JsH3ANkQOF+34BxgH7MyUTgR+BDUSi5qfbUgSoST2pPmxcm7vURerGLGA/qIMqgnun8RKpwtQ80fYTlVTg7eTXb9N6G/AIcCOwlygFdUl2FPAg1WgtSsVg4KfU35yU9yFK7xtECVlExKsjyY1IMrM4t+zn6F0s7ASGEzXkmzQ3M/lzBnAxcDdB4QJDgLnA0BrKAQ7kvlytrlBvUx9TT6hb1ZtrJNY84+lSC9vV8fkHvYxan2OsemkNA+u7UK76pNpQ/mhASWieen9J5jp1tOeXhRzHDWae9/BC3Z2EThkPsXVqa7b+rrqqQul29dfUX1zIVxmYnwkVV+NcO19xpyuUHzNe2h3GQ6y50FdFrwVETdoHLElzjxMFcUpiWo6TwF1ELh1N/b/OrlacACO4y9UGO7P5TePVkOOIOkHtkdw2pqyrq/reYrw5L898eyJTvsN4m2I85xur9FzoZdKibsmUtxmM6/bb/3Nj9VfXGgGv+lNS2f4DPknK15zjM28AAAAASUVORK5CYII=)](https://en.wikipedia.org/wiki/Siberian_Husky)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript&logoColor=fff)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![Linux](https://img.shields.io/badge/-Linux-555?style=flat&logo=linux&logoColor=fff)](https://www.linuxfoundation.org/)
+[![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python&logoColor=fff)](https://www.python.org/)
+[![QML](https://img.shields.io/badge/-QML-555?style=flat&logo=qt&logoColor=fff)](https://qt.io/)
+[![Qt](https://img.shields.io/badge/-Qt-555?style=flat&logo=qt&logoColor=fff)](https://qt.io/)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-555?style=flat&logo=raspberrypi)](https://www.raspberrypi.org/)
+[![Rust](https://img.shields.io/badge/-Rust-555?style=flat&logo=rust)](https://www.rust-lang.org/)
+[![Sentry](https://img.shields.io/badge/-Sentry-555?style=flat&logo=sentry)](https://sentry.io/)
+[![Slint](https://img.shields.io/badge/-Slint-555?style=flat&logo=stackblitz)](https://slint.dev/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-555?style=flat&logo=ubuntu&logoColor=fff)](https://ubuntu.com/)
+[![Yocto](https://img.shields.io/badge/-Yocto-555?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAZ8AAAGfAFyUqRsAAAAB3RJTUUH5QEVEDQkS/Ua2gAAAatJREFUSMftlE1LlVEUhZ/9+vrRDbOgUi5CdoVoogRCYSUh1X9oFA2aBSERNGnaSBo7yEEQCUIRBHELMYJAmtQwrNBJs6IPGmWiT5N94e1C4LS4Cw4c9l6ss/de5xzooIP/E2qo13bCLdWTwGpEfFXHgW/ANjAFfARWIkK1DowBfUAXcFV9FxFP1AZwAvgAvI4IWwcUwAgwowZwCzgKPAQGgCvADfU4cBc4DPTnKoB+dQK4D9SAm8DFageh9gLNJE0Ca8D3iJhTdwPLwCqwGBHNHFEJvImIcXUWeJGdjADzEXHu/Nz7EpwpI2JDvQ0sABPANNDIAurAL+AzMJzi3YCVIr+08X8A9HVvb21sxrOWaafUO2leTb2nPlVX1Cl1UH2sLqtL6v7MP1ePqI/UpvpSHWu/EaeT2GiL781RVGM1tch9kd20cvtauSoK4BhwOSLWq+LAJrBLHUixIeBnxgpgENhSD6aPXWn+H4i/3PNLwHqK7AFeAaPAJ2AIWAKuA7PABeABcAZ4GxFrO3lI9fRjWD2k9qhn1V51VC3V6YxPqgeyk57ON9TBP4jfvOMbDk3sYt0AAAAASUVORK5CYII=)](https://www.yoctoproject.org/)
 
-if __name__ == '__main__':
-  keyboard = HumanClass(age=19, gender='男', likes=['二次元', '编程', '钱', '电子音乐'])
-  keyboard.say_something("你可以叫我键盘, 是全栈开发.")
-```
+<!--a href="https://github.com/jpnurmi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpnurmi&count_private=true&show_icons=true&hide_title=true&bg_color=555&text_color=fff&icon_color=fff&title_color=fff&hide_border=true" />
+</a-->

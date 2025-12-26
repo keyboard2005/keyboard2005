@@ -1,8 +1,1 @@
-[![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript&logoColor=fff)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-[![Linux](https://img.shields.io/badge/-Linux-555?style=flat&logo=linux&logoColor=fff)](https://www.linuxfoundation.org/)
-[![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python&logoColor=fff)](https://www.python.org/)
-[![PyQt](https://img.shields.io/badge/-Qt-555?style=flat&logo=qt&logoColor=fff)](https://qt.io/)
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-555?style=flat&logo=raspberrypi)](https://www.raspberrypi.org/)
-[![Rust](https://img.shields.io/badge/-Rust-555?style=flat&logo=rust)](https://www.rust-lang.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-555?style=flat&logo=ubuntu&logoColor=fff)](https://ubuntu.com/)
+什么都会一点, 
